@@ -1,0 +1,6 @@
+C:\Users\אביב\source\repos\Masking\Masking\bin\Debug\Masking.dll
+C:\Users\אביב\source\repos\Masking\Masking\bin\Debug\Masking.pdb
+C:\Users\אביב\source\repos\Masking\Masking\obj\Debug\Masking.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\Masking\Masking\obj\Debug\Masking.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\Masking\Masking\obj\Debug\Masking.dll
+C:\Users\אביב\source\repos\Masking\Masking\obj\Debug\Masking.pdb
